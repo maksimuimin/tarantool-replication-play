@@ -1,7 +1,5 @@
 require('strict').on()
 
-print(...)
-
 local args = {...}
 local init = (args[1] == 'init')
 
